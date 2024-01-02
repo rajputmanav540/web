@@ -1,0 +1,17 @@
+h1{
+    border: 2px solid red;
+}
+
+table{
+    border: 5px dotted green;
+}
+form{
+    border: 5px dashed purple;
+    background-color: peachpuff;
+}
+.pad{
+    padding-left: 100px;
+    padding-right: 1000px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
